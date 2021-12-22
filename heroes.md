@@ -4,4 +4,3 @@
 * Batman
 * Aquaman
 * Mujer Maravilla
-* Robin
